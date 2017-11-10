@@ -6,3 +6,4 @@ Titanic_Survival_Exploration.ipynb contains an exploratory data analysis of surv
 
 The model implemented is a decision tree. Tools used include python 2.6 with anaconda, as well as ipython notebook environment.
 
+Link: https://dannguyen.github.io/github-for-portfolios/lessons/deploy-github-pages/
